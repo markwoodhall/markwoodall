@@ -1,2 +1,3 @@
-# markwoodall
-GitHub Profile
+# Mark Woodhall
+
+Clojure, Neovim, and Lisp lover. 
